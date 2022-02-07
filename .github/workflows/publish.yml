@@ -21,8 +21,3 @@ jobs:
         run: npm run validate
       - name: Export Resume
         run: mkdir ./public && npm run export_html
-      - name: Deploy
-        uses: peaceiris/actions-gh-pages@v3
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./public
