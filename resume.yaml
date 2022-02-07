@@ -1,0 +1,83 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json
+
+basics:
+  name: Mark E. Kraus
+  label: Leader and DevX Fanatic
+  picture: https://github.com/markekraus/resume/raw/main/images/headshot.jpg
+  email: hiremark@markekraus.com
+  summary: >-
+    Software Engineering Manager, Software and Systems Engineer, and CI/CD pipeline architect
+    with diverse experience in multiple tech stacks.
+  profiles:
+    - network: Github
+      username: markekraus
+      url: "https://github.com/markekraus"
+    - network: Twitter
+      username: markekraus
+      url: "https://www.twitter.com/markekraus"
+    - network: LinkedIn
+      username: markekraus
+      url: "https://www.linkedin.com/in/markekraus/"
+work:
+  - company: LinkedIn
+    position: Software Engineering Manager/Staff Systems Engineer
+    website: https://linkedin.com
+    startDate: 2018-07
+    endDate: 2021-09
+    summary: >-
+      Lead architect on Infrastructure and Application CI/CD pipelines for Azure application deployments.
+      Managed a team of 8 Software and DevOps Engineers that built and maintained CI/CD solutions for Productivity Engineering.
+    highlights:
+      - >-
+        .....1
+      - >-
+        .....2
+      - >-
+        .....3
+publications:
+  - name: The PowerShell Conference Book
+    releaseDate:  2018-09
+    publisher:  The DevOps Collective, Inc
+    website: https://leanpub.com/powershell-conference-book
+    summary: >-
+      Contributing author to the PowerShell Conference book, a project
+      which brought more than 30 community experts together to raise funds for
+      people transitioning into IT Operations roles.
+  - name: The PowerShell Conference Book Vol 2
+    releaseDate: 2019-09
+    publisher:  The DevOps Collective, Inc
+    website: https://leanpub.com/psconfbook2
+    summary: >-
+      Editor for the second volume of the PowerShell
+      Conference Book containing over 40 chapters of technical content to
+      raise money for people transitioning into IT Operations roles.
+  - name: The PowerShell Conference Book Vol 3
+    releaseDate: 2020-09
+    publisher:  The DevOps Collective, Inc
+    website: https://leanpub.com/psconfbook3
+    summary: >-
+      Editor-in-Chief for the third volume of the PowerShell
+      Conference Book containing over 20 chapters of technical content to
+      raise money for people transitioning into IT Operations roles.
+skills:
+  - name: Automation Development
+    level: Senior
+    keywords:
+      - Cloud
+      - GitHub Actions
+      - PowerShell
+interests:
+  - name: Video Game Modding
+    keywords:
+      - "The Elder Scrolls V: Skyrim Special Edition"
+      - Papyrus
+      - Creation Kit
+      - Pyro
+references: []
+projects:
+  - name: TBD
+    description: >-
+      TBD
+    url: https://www.youtube.com/
+    sourceUrl: https://github.com/
+    startDate: 2020-03
