@@ -23,7 +23,9 @@
     "serve": "resume serve --theme paperalt",
     "export_html": "resume export --format html --theme paperalt ./public/index.html",
     "export_pdf": "resume export --format pdf --theme paperalt",
-    "watch": "npm-watch update"
+    "watch": "npm-watch update",
+    "prenetlify": "mkdir public && yaml2json resume.yaml > resume.json",
+    "netlify": "resume export --format html --theme paperalt ./public/index.html"
   },
   "dependencies": {
     "jsonresume-theme-paperalt": "^0.2.5",
@@ -41,5 +43,5 @@
   "bugs": {
     "url": "https://github.com/markekraus/resume/issues"
   },
-  "homepage": "https://markekraus.github.io/resume"
+  "homepage": "https://markekraus-resume.netlify.app/"
 }
