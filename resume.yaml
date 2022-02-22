@@ -20,20 +20,46 @@ basics:
       url: "https://www.linkedin.com/in/markekraus/"
 work:
   - company: LinkedIn
-    position: Software Engineering Manager/Staff Systems Engineer
+    position: Software Engineering Manager
     website: https://linkedin.com
-    startDate: 2018-07
+    startDate: 2020-06
     endDate: 2021-09
     summary: >-
-      Lead architect on Infrastructure and Application CI/CD pipelines for Azure application deployments.
-      Managed a team of 8 Software and DevOps Engineers that built and maintained CI/CD solutions for Productivity Engineering.
+      Lead a high-performance software team that built CI/CD and Dev Experience tooling to deploy applications and infrastructure to Azure for LinkedIn's Productivity Engineering org.
     highlights:
       - >-
-        .....1
+        Built team of mostly Staff Engineers from existing employees and new hires
       - >-
-        .....2
+        Delivered MVP of unified infrastructure and application CI/CD product and 2 major milestones.
+        This reduced application deployment and approval times from months to hours.
       - >-
-        .....3
+        Owned 5+ products and served as both Product and Project Manager.
+      - >-
+        Interacted with stakeholders throughout Engineering.
+      - >-
+        Mentored newly-promoted Managers.
+      - >-
+        Ensure code met quality and security compliance.
+  - company: LinkedIn
+    position: Staff Systems Engineer, Cloud Infrastructure
+    website: https://linkedin.com
+    startDate: 2018-07
+    endDate: 2020-06
+    summary: >-
+      Lead Architect for CI/CD products for infrastructure and and application deployments to Azure.
+      Created multiple tools and frameworks to improve developer productivity and job satisfaction.
+    highlights:
+      - >-
+        Delivered a CI/CD pipeline for deployment of IaaS resources to Azure that
+        eliminated manual deployments and reduced IaaS deployment times from weeks to minutes.
+      - >-
+        Created internal build/test/release framework for PowerShell module development.
+      - >-
+        Lead Architect for a unified infrastructure and application CI/CD product
+      - >-
+        Mentored Senior engineers on software engineering and DevOps on multiple
+      - >-
+        Hosted and lead monthly technical training sessions on various programing languages and tech stacks.
 publications:
   - name: The PowerShell Conference Book
     releaseDate:  2018-09
