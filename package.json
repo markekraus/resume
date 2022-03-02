@@ -20,15 +20,15 @@
     "prevalidate": "yaml2json resume.yaml > resume.json",
     "validate": "resume validate",
     "preserve": "yaml2json resume.yaml > resume.json",
-    "serve": "resume serve --theme paperalt",
-    "export_html": "resume export --format html --theme paperalt ./public/index.html",
-    "export_pdf": "resume export --format pdf --theme paperalt",
+    "serve": "resume serve --theme elegant",
+    "export_html": "resume export --format html --theme elegant ./public/index.html",
+    "export_pdf": "resume export --format pdf --theme elegant ./mark-kraus-resume.pdf",
     "watch": "npm-watch update",
     "prenetlify": "mkdir public && yaml2json resume.yaml > resume.json",
-    "netlify": "resume export --format html --theme paperalt ./public/index.html"
+    "netlify": "resume export --format html --theme elegant ./public/index.html"
   },
   "dependencies": {
-    "jsonresume-theme-paperalt": "^0.2.5",
+    "jsonresume-theme-elegant": "^1.16.1",
     "npm-watch": "^0.11.0",
     "resume-cli": "^3.0.0",
     "yamljs": "0.3.0"
