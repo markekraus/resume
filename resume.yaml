@@ -6,7 +6,7 @@ basics:
   picture: https://github.com/markekraus/resume/raw/main/images/headshot.png
   email: hiremark@markekraus.com
   location:
-    address: ""
+    countryCode: US
     region: San Francisco Bay Area (South Bay)
   summary: >-
     Software Engineering Manager, Software and Systems Engineer, and CI/CD pipeline architect
@@ -82,7 +82,7 @@ work:
     endDate: 2018-07
     url: https://www.mitel.com/
     summary: >-
-      Architect and design Business solutions with PowerShell, C#, Active Directory, Azure AD, Azure, AES, Office 365 Exchange/SharePoint/OneDrive, and ADFS.
+      Architected and implemented business solutions with PowerShell, C#, Active Directory, Azure AD, Azure, AES, Office 365 Exchange/SharePoint/OneDrive, and ADFS.
     highlights:
       - Designed and implemented enterprise PKI solution.
       - Created self-service OneDrive access and permissions request tool to allow temporary or permanent access to leavers' OneDrive.
@@ -129,15 +129,6 @@ publications:
       Conference Book containing over 20 chapters of technical content to
       raise money for people transitioning into IT Operations roles.
 skills:
-  - name: Management
-    keywords:
-      - Remote Teams
-      - Agile
-      - SDLC
-      - Project Management
-      - Product Management
-      - Career Coaching/Development
-      - Hiring
   - name: CI/CD
     keywords:
       - GitHub
@@ -155,6 +146,15 @@ skills:
       - ASP.NET
       - Python
       - Bash/Sed/Awk/Grep
+  - name: Management
+    keywords:
+      - Remote Teams
+      - Agile
+      - SDLC
+      - Project Management
+      - Product Management
+      - Career Coaching/Development
+      - Hiring
 interests:
   - name: Video Game Modding
     keywords:
@@ -170,8 +170,11 @@ interests:
       - Twitter
 awards:
   - awarder: Microsoft
-    date: 2017-12-01
-    title: Microsoft MVP Cloud and Datacenter Management
+    date: 2017-12
+    title: Microsoft MVP
+    summary: >-
+      Awarded Most Valuable Professional award in the Cloud and Datacenter Management category
+      by Microsoft for open source work on PowerShell and PowerShell Community involvement.
 #references: []
 projects:
   - name: PowerShell Core Collaborator
@@ -180,7 +183,7 @@ projects:
     url: https://github.com/PowerShell/PowerShell/commits?author=markekraus
     entity: Microsoft
     description: >-
-      Open source collaborator for PowerShell's transition top .NET Core. Served as code owner for the Web Cmdlets codebase.
+      Open source collaborator for PowerShell's transition to .NET Core. Served as code owner for the Web Cmdlets codebase.
     highlights:
       - Developed new features for the PowerShell Core language using C# and .NET Core.
       - Implemented bug fixes and performance enhancements.
