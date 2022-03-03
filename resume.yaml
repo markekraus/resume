@@ -28,13 +28,13 @@ work:
     startDate: 2020-06
     endDate: 2021-09
     summary: >-
-      Lead a high-performance software team that built CI/CD and Dev Experience tooling to deploy applications and infrastructure to Azure for LinkedIn's Productivity Engineering org.
+      Led a high-performance software team that built CI/CD and Dev Experience tooling to deploy applications and infrastructure to Azure for LinkedIn's Productivity Engineering org.
     highlights:
       - >-
-        Built fully remote and globally diverse team of mostly Staff Engineers from existing employees and new hires.
+        Built fully remote and globally diverse team of mainly Staff Engineers from existing employees and new hires.
       - >-
-        Delivered MVP and 2 major milestones of unified infrastructure and application CI/CD product.
-        This reduced application deployment and approval times from months to hours.
+        Delivered MVP and two major milestones of unified infrastructure and application CI/CD product.
+        Reduced application deployment and approval times from months to hours.
       - >-
         Owned 5+ products and served as both Product and Project Manager.
       - >-
@@ -42,7 +42,7 @@ work:
       - >-
         Mentored newly-promoted Managers.
       - >-
-        Ensure code met quality and security compliance.
+        Ensured code met quality and security compliance.
       - >-
         Created and enforced standards and best practices for Cloud Application development and deployment.
       - >-
@@ -55,11 +55,11 @@ work:
     startDate: 2018-07
     endDate: 2020-06
     summary: >-
-      Lead Architect for CI/CD products for infrastructure and and application deployments to Azure.
+      Lead Architect for CI/CD products for infrastructure and application deployments to Azure.
       Created multiple tools and frameworks to improve developer productivity and job satisfaction.
     highlights:
       - >-
-        Delivered a CI/CD pipeline for deployment of IaaS resources to Azure that
+        Delivered a CI/CD pipeline for the deployment of IaaS resources to Azure that
         eliminated manual deployments and reduced IaaS deployment times from weeks to minutes.
       - >-
         Created internal build/test/release framework for PowerShell module development.
@@ -75,7 +75,7 @@ work:
       - >-
         Mentored Senior engineers from multiple teams on software engineering and DevOps.
       - >-
-        Hosted and lead monthly technical training sessions on various programing languages and tech stacks.
+        Hosted and led monthly technical training sessions on various programming languages and tech stacks.
   - company: Mitel Networks
     position: Lead IT Solutions Architect
     startDate: 2015-04
@@ -87,7 +87,7 @@ work:
       - Designed and implemented enterprise PKI solution.
       - Created self-service OneDrive access and permissions request tool to allow temporary or permanent access to leavers' OneDrive.
       - Designed and implemented PaaS-first strategies for cloud technologies in both Azure and AWS.
-      - Designed CI/CD pipelines for PowerShell based business automation using AWS CodeCommit, Lambda, Azure Functions, and Azure Automation.  
+      - Designed CI/CD pipelines for PowerShell-based business automation using AWS CodeCommit, Lambda, Azure Functions, and Azure Automation.  
       - Architected and designed modern configuration management & patching strategies for clients and servers using Intune, Azure Automation, AWS SSM, and AWS Systems Manager Patch Manager.  
       - Deployed and Maintained SSO solutions with AD FS using SAML, WS-Federation, OpenID, and OAuth.
   - company: Mavenir
@@ -96,7 +96,7 @@ work:
     endDate: 2015-04
     url: https://www.mavenir.com/
     summary: >-
-      Worked on Source Control Management team to ensure reliability of source control and CI/CD systems.
+      Worked on Source Control Management (SCM) team to ensure the reliability of source control and CI/CD systems.
     highlights:
       - Designed and deployed Linux build and development virtual machines on VMWare vCenter
       - Deployed and managed Jenkins server
