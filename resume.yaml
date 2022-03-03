@@ -22,9 +22,9 @@ basics:
       username: markekraus
       url: "https://www.linkedin.com/in/markekraus/"
 work:
-  - company: LinkedIn
+  - name: LinkedIn
     position: Software Engineering Manager
-    website: https://linkedin.com
+    url: https://linkedin.com
     startDate: 2020-06
     endDate: 2021-09
     summary: >-
@@ -49,9 +49,9 @@ work:
         Modernized SDLC practices.
       - >-
         Promoted Diversity, Inclusion, and Belonging through workshops, discussions, and equitable interviewing/hiring practices.
-  - company: LinkedIn
+  - name: LinkedIn
     position: Staff Systems Engineer, Cloud Infrastructure
-    website: https://linkedin.com
+    url: https://linkedin.com
     startDate: 2018-07
     endDate: 2020-06
     summary: >-
@@ -76,7 +76,7 @@ work:
         Mentored Senior engineers from multiple teams on software engineering and DevOps.
       - >-
         Hosted and led monthly technical training sessions on various programming languages and tech stacks.
-  - company: Mitel Networks
+  - name: Mitel Networks
     position: Lead IT Solutions Architect
     startDate: 2015-04
     endDate: 2018-07
@@ -90,7 +90,7 @@ work:
       - Designed CI/CD pipelines for PowerShell-based business automation using AWS CodeCommit, Lambda, Azure Functions, and Azure Automation.
       - Architected and designed modern configuration management & patching strategies for clients and servers using Intune, Azure Automation, AWS SSM, and AWS Systems Manager Patch Manager.
       - Deployed and Maintained SSO solutions with AD FS using SAML, WS-Federation, OpenID, and OAuth.
-  - company: Mavenir
+  - name: Mavenir
     position: Senior Systems Engineer
     startDate: 2013-03
     endDate: 2015-04
@@ -107,7 +107,7 @@ publications:
   - name: The PowerShell Conference Book
     releaseDate:  2018-09
     publisher:  The DevOps Collective, Inc
-    website: https://leanpub.com/powershell-conference-book
+    url: https://leanpub.com/powershell-conference-book
     summary: >-
       Contributing author to the PowerShell Conference book, a project
       which brought more than 30 community experts together to raise funds for
@@ -115,7 +115,7 @@ publications:
   - name: The PowerShell Conference Book Vol 2
     releaseDate: 2019-09
     publisher:  The DevOps Collective, Inc
-    website: https://leanpub.com/psconfbook2
+    url: https://leanpub.com/psconfbook2
     summary: >-
       Editor for the second volume of the PowerShell
       Conference Book containing over 40 chapters of technical content to
@@ -123,7 +123,7 @@ publications:
   - name: The PowerShell Conference Book Vol 3
     releaseDate: 2020-09
     publisher:  The DevOps Collective, Inc
-    website: https://leanpub.com/psconfbook3
+    url: https://leanpub.com/psconfbook3
     summary: >-
       Editor-in-Chief for the third volume of the PowerShell
       Conference Book containing over 20 chapters of technical content to
