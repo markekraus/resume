@@ -33,7 +33,7 @@ work:
       - >-
         Built fully remote and globally diverse team of mostly Staff Engineers from existing employees and new hires.
       - >-
-        Delivered MVP of unified infrastructure and application CI/CD product and 2 major milestones.
+        Delivered MVP and 2 major milestones of unified infrastructure and application CI/CD product.
         This reduced application deployment and approval times from months to hours.
       - >-
         Owned 5+ products and served as both Product and Project Manager.
@@ -76,6 +76,33 @@ work:
         Mentored Senior engineers from multiple teams on software engineering and DevOps.
       - >-
         Hosted and lead monthly technical training sessions on various programing languages and tech stacks.
+  - company: Mitel Networks
+    position: Lead IT Solutions Architect
+    startDate: 2015-04
+    endDate: 2018-07
+    url: https://www.mitel.com/
+    summary: >-
+      Architect and design Business solutions with PowerShell, C#, Active Directory, Azure AD, Azure, AES, Office 365 Exchange/SharePoint/OneDrive, and ADFS.
+    highlights:
+      - Designed and implemented enterprise PKI solution.
+      - Created self-service OneDrive access and permissions request tool to allow temporary or permanent access to leavers' OneDrive.
+      - Designed and implemented PaaS-first strategies for cloud technologies in both Azure and AWS.
+      - Designed CI/CD pipelines for PowerShell based business automation using AWS CodeCommit, Lambda, Azure Functions, and Azure Automation.  
+      - Architected and designed modern configuration management & patching strategies for clients and servers using Intune, Azure Automation, AWS SSM, and AWS Systems Manager Patch Manager.  
+      - Deployed and Maintained SSO solutions with AD FS using SAML, WS-Federation, OpenID, and OAuth.
+  - company: Mavenir
+    position: Senior Systems Engineer
+    startDate: 2013-03
+    endDate: 2015-04
+    url: https://www.mavenir.com/
+    summary: >-
+      Worked on Source Control Management team to ensure reliability of source control and CI/CD systems.
+    highlights:
+      - Designed and deployed Linux build and development virtual machines on VMWare vCenter
+      - Deployed and managed Jenkins server
+      - Automation of build and development processes using Python and Bash.
+      - Design and maintain CVS integrity, stability, and disaster recovery.
+      - Storage management and automation for source code and build assets.
 publications:
   - name: The PowerShell Conference Book
     releaseDate:  2018-09
@@ -147,10 +174,19 @@ awards:
     date: 2017-12-01
     title: Microsoft MVP Cloud and Datacenter Management
 #references: []
-#projects:
-#  - name: TBD
-#    description: >-
-#      TBD
-#    url: https://www.youtube.com/
-#    sourceUrl: https://github.com/
-#    startDate: 2020-03
+projects:
+  - name: PowerShell Core Collaborator
+    startDate: 2017-06
+    endDate: 2019-07
+    url: https://github.com/PowerShell/PowerShell/commits?author=markekraus
+    entity: Microsoft
+    description: >-
+      Open source collaborator for PowerShell's transition top .NET Core. Served as code owner for the Web Cmdlets codebase.
+    highlights:
+      - Develop new features for the PowerShell Core language using C# and .NET Core.
+      - Bug fixes and performance enhancements.
+      - Maintain and improve unit testing and code coverage using PowerShell Pester.
+      - Perform code reviews and repository/issue management activities.
+      - Assist with official releases of PowerShell Core.
+      - Develop, troubleshoot, and maintain public CI/CD pipelines on Travis CI and AppVeyor.
+      - Developed in-pipeline ASP.NET Core test platform for PowerShell Web Cmdlets.
