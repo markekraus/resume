@@ -183,10 +183,10 @@ projects:
     description: >-
       Open source collaborator for PowerShell's transition top .NET Core. Served as code owner for the Web Cmdlets codebase.
     highlights:
-      - Develop new features for the PowerShell Core language using C# and .NET Core.
-      - Bug fixes and performance enhancements.
-      - Maintain and improve unit testing and code coverage using PowerShell Pester.
-      - Perform code reviews and repository/issue management activities.
-      - Assist with official releases of PowerShell Core.
-      - Develop, troubleshoot, and maintain public CI/CD pipelines on Travis CI and AppVeyor.
+      - Developed new features for the PowerShell Core language using C# and .NET Core.
+      - Implemented bug fixes and performance enhancements.
+      - Maintained and improved unit testing and code coverage using PowerShell Pester.
+      - Performed code reviews and repository/issue management activities.
+      - Assisted with official releases of PowerShell Core.
+      - Developed, troubleshot, and maintained public CI/CD pipelines on Travis CI and AppVeyor.
       - Developed in-pipeline ASP.NET Core test platform for PowerShell Web Cmdlets.
