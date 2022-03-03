@@ -100,9 +100,9 @@ work:
     highlights:
       - Designed and deployed Linux build and development virtual machines on VMWare vCenter.
       - Deployed and managed Jenkins server.
-      - Automation of build and development processes using Python and Bash.
-      - Design and maintain CVS integrity, stability, and disaster recovery.
-      - Storage management and automation for source code and build assets.
+      - Built and maintained automation for build and development processes using Python and Bash.
+      - Designed and maintained CVS integrity, stability, and disaster recovery.
+      - Maintained storage management and automation for source code and build assets.
 publications:
   - name: The PowerShell Conference Book
     releaseDate:  2018-09
