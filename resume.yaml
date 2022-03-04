@@ -38,13 +38,13 @@ work:
       - >-
         Owned 5+ products and served as both Product and Project Manager.
       - >-
-        Interacted with stakeholders throughout Engineering.
+        Interacted with stakeholders throughout Engineering to ensured strong feedback loops.
       - >-
-        Mentored newly promoted Managers.
+        Mentored 3 newly promoted Managers.
       - >-
         Ensured code met quality and security compliance.
       - >-
-        Created and enforced standards and best practices for Cloud Application development and deployment.
+        Developed and enforced standards and best practices for Cloud Application development and deployment.
       - >-
         Modernized SDLC practices.
       - >-
@@ -55,16 +55,16 @@ work:
     startDate: 2018-07
     endDate: 2020-06
     summary: >-
-      Lead Architect for CI/CD products for infrastructure and application deployments to Azure.
-      Created multiple tools and frameworks to improve developer productivity and job satisfaction.
+      Served as Lead Architect for CI/CD products for infrastructure and application deployments to Azure.
+      Designed and implemented multiple tools and frameworks to improve developer productivity and job satisfaction.
     highlights:
       - >-
         Delivered a CI/CD pipeline for the deployment of IaaS resources to Azure that
         eliminated manual deployments and reduced IaaS deployment times from weeks to minutes.
       - >-
-        Created internal build/test/release framework for PowerShell module development.
+        Designed and implemented internal build/test/release framework for PowerShell module development.
       - >-
-        Created proprietary JSON-based Infrastructure as Code (IaC) framework.
+        Designed and implemented proprietary JSON-based Infrastructure as Code (IaC) framework.
       - >-
         Lead Architect for a unified infrastructure and application CI/CD product using Azure DevOps, PowerShell, and ASP.NET.
         Product supported Java, Python, JavaScript, and C# applications deployed to 30+ Azure IaaS and PaaS components.
@@ -73,7 +73,7 @@ work:
       - >-
         Lead Architect for Kubernetes-based build-agent-on-demand solution.
       - >-
-        Mentored Senior engineers from multiple teams on software engineering and DevOps.
+        Mentored 10+ senior and staff engineers from multiple teams on software engineering and DevOps.
       - >-
         Hosted and led monthly technical training sessions on various programming languages and tech stacks.
   - name: Mitel Networks
@@ -85,7 +85,7 @@ work:
       Architected and implemented business solutions with PowerShell, C#, Active Directory, Azure AD, Azure, AES, Office 365 Exchange/SharePoint/OneDrive, and ADFS.
     highlights:
       - Designed and implemented enterprise PKI solution.
-      - Created self-service OneDrive access and permissions request tool to allow temporary or permanent access to leavers' OneDrive.
+      - Designed and implemented self-service OneDrive access and permissions request tool to allow temporary or permanent access to leavers' OneDrive.
       - Designed and implemented PaaS-first strategies for cloud technologies in both Azure and AWS.
       - Designed CI/CD pipelines for PowerShell-based business automation using AWS CodeCommit, Lambda, Azure Functions, and Azure Automation.
       - Architected and designed modern configuration management & patching strategies for clients and servers using Intune, Azure Automation, AWS SSM, and AWS Systems Manager Patch Manager.
@@ -145,7 +145,7 @@ skills:
       - C#
       - ASP.NET
       - Python
-      - Bash/Sed/Awk/Grep
+      - Bash
   - name: Management
     keywords:
       - Remote Teams
