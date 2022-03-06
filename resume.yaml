@@ -8,9 +8,7 @@ basics:
   location:
     countryCode: US
     region: San Francisco Bay Area (South Bay)
-  summary: >-
-    Software Engineering Manager, Software and Systems Engineer, and CI/CD pipeline architect
-    with diverse experience in multiple tech stacks.
+  summary: Software Engineering Manager, Software and Systems Engineer, and CI/CD pipeline architect with diverse experience in multiple tech stacks.
   profiles:
     - network: GitHub
       username: markekraus
@@ -27,107 +25,73 @@ work:
     url: https://linkedin.com
     startDate: 2020-06
     endDate: 2021-09
-    summary: >-
-      Led a high-performance software team that built CI/CD and Dev Experience tooling to deploy applications and infrastructure to Azure for LinkedIn's Productivity Engineering org.
+    summary: Led a high-performance software team that built CI/CD and Dev Experience tooling to deploy applications and infrastructure to Azure for LinkedIn's Productivity Engineering org.
     highlights:
-      - >-
-        Built fully remote and globally diverse team of mainly Staff Engineers from existing employees and new hires.
-      - >-
-        Delivered MVP and two major milestones of unified infrastructure and application CI/CD product.
-        Reduced application deployment and approval times from months to hours.
-      - >-
-        Owned 5+ products and served as both Product and Project Manager.
-      - >-
-        Interacted with stakeholders throughout Engineering to ensured strong feedback loops.
-      - >-
-        Mentored 3 newly promoted Managers.
-      - >-
-        Ensured code met quality and security compliance.
-      - >-
-        Developed and enforced standards and best practices for Cloud Application development and deployment.
-      - >-
-        Modernized SDLC practices.
-      - >-
-        Promoted Diversity, Inclusion, and Belonging through workshops, discussions, and equitable interviewing/hiring practices.
+      - Built a fully remote and globally diverse team of 8 engineers from existing employees and new hires.
+      - Delivered MVP and two major milestones of unified infrastructure and application CI/CD product. Reduced application deployment and approval times from months to hours.
+      - Owned 5+ products and served as both Product and Project Manager.
+      - Interacted with stakeholders throughout engineering to ensure strong feedback loops.
+      - Mentored three newly promoted Managers.
+      - Ensured code met quality and security compliance.
+      - Developed and enforced standards and best practices for Cloud Application development and deployment.
+      - Modernized SDLC practices for traditional operations teams.
+      - Promoted Diversity, Inclusion, and Belonging through workshops, discussions, and equitable interviewing/hiring practices.
   - name: LinkedIn
     position: Staff Systems Engineer, Cloud Infrastructure
     url: https://linkedin.com
     startDate: 2018-07
     endDate: 2020-06
-    summary: >-
-      Served as Lead Architect for CI/CD products for infrastructure and application deployments to Azure.
-      Designed and implemented multiple tools and frameworks to improve developer productivity and job satisfaction.
+    summary: Served as Lead Architect for CI/CD products for infrastructure and application deployments to Azure. Designed and implemented multiple tools and frameworks to improve developer productivity and job satisfaction.
     highlights:
-      - >-
-        Delivered a CI/CD pipeline for the deployment of IaaS resources to Azure that
-        eliminated manual deployments and reduced IaaS deployment times from weeks to minutes.
-      - >-
-        Designed and implemented internal build/test/release framework for PowerShell module development.
-      - >-
-        Designed and implemented proprietary JSON-based Infrastructure as Code (IaC) framework.
-      - >-
-        Lead Architect for a unified infrastructure and application CI/CD product using Azure DevOps, PowerShell, and ASP.NET.
-        Product supported Java, Python, JavaScript, and C# applications deployed to 30+ Azure IaaS and PaaS components.
-      - >-
-        Lead Architect for event-driven automation framework.
-      - >-
-        Lead Architect for Kubernetes-based build-agent-on-demand solution.
-      - >-
-        Mentored 10+ senior and staff engineers from multiple teams on software engineering and DevOps.
-      - >-
-        Hosted and led monthly technical training sessions on various programming languages and tech stacks.
+      - Delivered a CI/CD pipeline to deploy IaaS resources to Azure, eliminating manual deployments and reducing IaaS deployment times from weeks to minutes.
+      - Designed and implemented internal build/test/release framework for PowerShell module development used to build 100+ internal modules.
+      - Developed proprietary JSON-based Infrastructure as Code (IaC) framework to meet technical and security requirements.
+      - Architected and built a unified infrastructure and application CI/CD product using Azure DevOps, PowerShell, and ASP.NET supporting Java, Python, JavaScript, and C# applications deployed to 30+ Azure IaaS and PaaS components.
+      - Designed event-driven automation framework that eliminated manual pre and post-deployment tasks.
+      - Designed Kubernetes-based build-agent-on-demand solution that served 100's of builds per day.
+      - Mentored 10+ senior and staff engineers from multiple teams on software engineering and DevOps.
+      - Hosted and led monthly technical training sessions on various programming languages and tech stacks.
   - name: Mitel Networks
     position: Lead IT Solutions Architect
     startDate: 2015-04
     endDate: 2018-07
     url: https://www.mitel.com/
-    summary: >-
-      Architected and implemented business solutions with PowerShell, C#, Active Directory, Azure AD, Azure, AES, Office 365 Exchange/SharePoint/OneDrive, and ADFS.
+    summary: Architected and implemented business solutions with PowerShell, C#, Active Directory, Azure AD, Azure, AES, Office 365 Exchange/SharePoint/OneDrive, and ADFS.
     highlights:
-      - Designed and implemented enterprise PKI solution.
-      - Designed and implemented self-service OneDrive access and permissions request tool to allow temporary or permanent access to leavers' OneDrive.
-      - Designed and implemented PaaS-first strategies for cloud technologies in both Azure and AWS.
-      - Designed CI/CD pipelines for PowerShell-based business automation using AWS CodeCommit, Lambda, Azure Functions, and Azure Automation.
+      - Architected enterprise PKI solution that enabled improved int user experiences for accessing internal systems.
+      - Developed self-service OneDrive access and permissions request tool to allow temporary or permanent access to leavers' OneDrive.
+      - Designed and implemented PaaS-first strategies for cloud technologies in Azure and AWS to reduce on-prem infrastructure costs.
+      - Delivered CI/CD pipelines for PowerShell-based business automation using AWS CodeCommit, Lambda, Azure Functions, and Azure Automation to improve tasks' constancy and reliability and solution delivery.
       - Architected and designed modern configuration management & patching strategies for clients and servers using Intune, Azure Automation, AWS SSM, and AWS Systems Manager Patch Manager.
-      - Deployed and Maintained SSO solutions with AD FS using SAML, WS-Federation, OpenID, and OAuth.
+      - Deployed and Maintained SSO solutions with AD FS using SAML, WS-Federation, OpenID, and OAuth, enabling employee access to 20+ applications.
   - name: Mavenir
     position: Senior Systems Engineer
     startDate: 2013-03
     endDate: 2015-04
     url: https://www.mavenir.com/
-    summary: >-
-      Worked on Source Control Management (SCM) team to ensure the reliability of source control and CI/CD systems.
+    summary: Worked on Source Control Management (SCM) team to ensure the reliability of source control and CI/CD systems.
     highlights:
-      - Designed and deployed Linux build and development virtual machines on VMWare vCenter.
-      - Deployed and managed Jenkins server.
-      - Built and maintained automation for build and development processes using Python and Bash.
-      - Designed and maintained CVS integrity, stability, and disaster recovery.
-      - Maintained storage management and automation for source code and build assets.
+      - Designed and deployed Linux build and development virtual machines on VMWare vCenter that served 100's of builds per day.
+      - Deployed and managed Jenkins server that eliminated many build and testing tasks.
+      - Built and maintained automation for build and development processes using Python and Bash, improving reliability and performance of builds.
+      - Designed and maintained CVS integrity, stability, and disaster recovery, ensuring operation and continuity in the event of major disasters.
+      - Maintained storage management and automation for source code and build assets, optimizing storage costs and maintaining data integrity.
 publications:
   - name: The PowerShell Conference Book
     releaseDate:  2018-09
     publisher:  The DevOps Collective, Inc
     url: https://leanpub.com/powershell-conference-book
-    summary: >-
-      Contributing author to the PowerShell
-      Conference Book containing over 20 chapters of technical content to
-      raise money for people transitioning into IT Operations roles.
+    summary: Contributing author to the PowerShell Conference Book containing over 20 chapters of technical content to raise money for people transitioning into IT Operations roles.
   - name: The PowerShell Conference Book Vol 2
     releaseDate: 2019-09
     publisher:  The DevOps Collective, Inc
     url: https://leanpub.com/psconfbook2
-    summary: >-
-      Editor for the second volume of the PowerShell
-      Conference Book containing over 40 chapters of technical content to
-      raise money for people transitioning into IT Operations roles.
+    summary: Editor for the second volume of the PowerShell Conference Book containing over 40 chapters of technical content to raise money for people transitioning into IT Operations roles.
   - name: The PowerShell Conference Book Vol 3
     releaseDate: 2020-09
     publisher:  The DevOps Collective, Inc
     url: https://leanpub.com/psconfbook3
-    summary: >-
-      Editor-in-Chief for the third volume of the PowerShell
-      Conference Book containing over 20 chapters of technical content to
-      raise money for people transitioning into IT Operations roles.
+    summary: Editor-in-Chief for the third volume of the PowerShell Conference Book containing over 20 chapters of technical content to raise money for people transitioning into IT Operations roles.
 skills:
   - name: CI/CD
     keywords:
@@ -172,10 +136,7 @@ awards:
   - awarder: Microsoft
     date: 2017-12
     title: Microsoft MVP
-    summary: >-
-      Awarded Most Valuable Professional award in the Cloud and Datacenter Management category
-      by Microsoft for open source work on PowerShell and PowerShell Community involvement.
-#references: []
+    summary: Awarded Most Valuable Professional award in the Cloud and Datacenter Management category by Microsoft for open source work on PowerShell and PowerShell Community involvement.
 projects:
   - name: PowerShell Core Collaborator
     startDate: 2017-06
